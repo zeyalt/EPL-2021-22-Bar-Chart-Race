@@ -4,7 +4,7 @@ The aim of this project is to visualise the entire EPL 2021/22 season using anim
 
 # Animated Bar Chart Race
 
-![til](output/epl_2122_race.gif)
+![EPL](output/epl_21_22_race.gif)
 
 # Useful Resources
 
