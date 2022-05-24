@@ -1,10 +1,14 @@
-# The English Premier League 2021/22 Season in 30 Seconds 
+# Visualising EPL 21/22 Season Using Animated Bar Chart Race
 
-The aim of this project is to visualise the entire EPL 2021/22 season using animated bar chart race.  
+The aim of this project is to create visualisations using animated bar chart race.  
 
-# Animated Bar Chart Race
+# EPL 21/22 Season in 30 Seconds
 
-![EPL](output/epl_21_22_race.gif)
+![EPL1](output/epl_21_22_race.gif)
+
+# EPL 21/22 Final-Day Title Decider: Minute by Minute
+
+![EPL2](output/epl_2122_final_day_title_decider.gif)
 
 # Useful Resources
 
